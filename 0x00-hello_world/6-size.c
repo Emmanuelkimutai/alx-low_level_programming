@@ -2,7 +2,6 @@
 
 /**
  * main - Entry point
- * program checks the size of various type in the computer
  *
  *return: Always 0 (Success)
  */
@@ -19,6 +18,5 @@ void main(void)
 	printf("Size of a long int: %lu byte(s)\n", (unsigned long)sizeof(l));
 	printf("Size of a long long int: %lu byte(s)\n", (unsigned long)sizeof(L));
 	printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
-
 	return (0);
 }
