@@ -3,3 +3,4 @@ C program to print the last digit after compairing it in the conditions
 C program to print the alphabet in lowercase
 C program to print both upper and lower case alphabets
 C program to print alphabet but omit letters q and e
+C program to print all single digit number of base 10 starting from 0
