@@ -8,3 +8,4 @@ c program to print all single digit numbers of base 10 using putchar
 C program that prints the lowercase alphabet in reverse
 C program to print all the numbers of base 16 in lowercase
 C program that prints all posible combinations of a single-digit separated with a comma and space
+ C program that prints all possible different combination of two digits
