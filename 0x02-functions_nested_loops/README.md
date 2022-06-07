@@ -13,3 +13,4 @@ function that prints all natural numbers from n to 98, folloewd by a new line
 function that prints the n times table, stating with 0.
 program to print the sum of all the multiples of 3 and 5 below 1024
 Program that prints the first 50 fibonacci numbers, starting with 1 and 2
+program that finds and printd the sum of the even-valued terms
