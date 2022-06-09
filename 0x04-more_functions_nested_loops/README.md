@@ -10,3 +10,4 @@ C function to print the number from 0 to 9 except 2 and 4
 program that prints the numbers from 1 to 100, but for multiples of three print Fizz and for 5 print Buzz and for both print FizzBuzz
  C function that prints a triangle
 Program that finds and prints the largest prime factor ot the number 6128522475143
+C function that prints an integer
