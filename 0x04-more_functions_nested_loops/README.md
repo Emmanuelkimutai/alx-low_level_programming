@@ -8,3 +8,4 @@ C function to print the number from 0 to 9 except 2 and 4
  C function that draws a diagonal line on the terminal
  C function that prints a square
 program that prints the numbers from 1 to 100, but for multiples of three print Fizz and for 5 print Buzz and for both print FizzBuzz
+ C function that prints a triangle
