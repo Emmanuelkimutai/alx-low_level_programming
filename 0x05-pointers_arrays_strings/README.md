@@ -10,3 +10,4 @@
 8)Function that prints n elements of an array of integer
 9)functon that copies the string pointed to by src including the
   terminating null byte to the buffer pointed to by dest
+10) function to convert a string to an integer
