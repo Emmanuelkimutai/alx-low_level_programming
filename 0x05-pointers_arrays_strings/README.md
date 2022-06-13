@@ -3,3 +3,4 @@ C function that swap the values of two integers
  function to return the lenght of a string
 Function that prints a string
  function that prints a string in reerse
+ function that reverse a string
