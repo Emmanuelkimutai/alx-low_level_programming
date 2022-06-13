@@ -2,7 +2,7 @@
 #define MAIN_H
 
 #include <stddef.h>
-
+#include <stdio.h>
 /**
  * main header
  */
@@ -16,5 +16,6 @@ void print_rev(char *s);
 void rev_string(char *s);
 void puts2(char *str);
 void put_half(char *str);
+void print_array(int *a, int n);
 
 #endif
