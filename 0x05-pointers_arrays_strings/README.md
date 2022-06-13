@@ -11,3 +11,4 @@
 9)functon that copies the string pointed to by src including the
   terminating null byte to the buffer pointed to by dest
 10) function to convert a string to an integer
+11)A program that generates random valid passwords for the program 101-crakme
