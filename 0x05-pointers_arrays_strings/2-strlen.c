@@ -5,12 +5,12 @@
  *
  * @s: - string to be checked
  *
- * Return: 0
+ * Return: the length of @s
  */
 
-int _strlen(char *s)
+size_t _strlen(const char *s)
 {
-	int len;
+	size_t len;
 
 	while (*s++)
 		len++;
