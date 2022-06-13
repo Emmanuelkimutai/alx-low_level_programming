@@ -5,3 +5,4 @@ Function that prints a string
  function that prints a string in reerse
  function that reverse a string
 Function that prints every other string, starting with the first character
+Function that prints half of a string, the last half
