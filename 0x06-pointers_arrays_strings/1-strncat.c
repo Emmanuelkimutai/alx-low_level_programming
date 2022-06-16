@@ -2,12 +2,13 @@
 
 /**
  * _strncat - concatenates two strings, and use at
- * 		most n bytes from src. src does not
- * 		does not need to be null terminated.
+ *		most n bytes from src. src does not
+ *		does not need to be null terminated.
  * @dest: pointer to dstination string
  * @src: pointer to source string
  * @n: number of bytes to be concatenated
  *
+ * Return: value of dest
  */
 
 char *_strncat(char *dest, char *src, int n)
