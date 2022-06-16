@@ -3,7 +3,7 @@
 /**
  * _strncpy - copies string from src for only n bytes
  *
- * @dest: pointer to destination 
+ * @dest: pointer to destination
  * @src: pointer to source
  * @n: the bytes to be copied
  *
