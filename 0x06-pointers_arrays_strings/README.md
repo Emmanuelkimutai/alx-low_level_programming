@@ -3,3 +3,4 @@ Function that concatenates two strings,
  except it will use at most n bytes from src
 function that copies a string
 Function that compares two strings
+function that reverses the content of an array of integers
