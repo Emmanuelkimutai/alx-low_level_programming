@@ -4,3 +4,4 @@ Function that concatenates two strings,
 function that copies a string
 Function that compares two strings
 function that reverses the content of an array of integers
+Function that changes all lowercase letter oa a string to uppercase
