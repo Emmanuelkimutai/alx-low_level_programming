@@ -10,3 +10,4 @@ function that encodes a string into 1337
 Function that encodes a string using rot13
 function that prints an integer
 program tha print a[2] = 98
+Function that adds two numbers
