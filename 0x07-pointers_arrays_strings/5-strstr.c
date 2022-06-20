@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * _strstr - finds the first occurrence of the substring 
+ * _strstr - finds the first occurrence of the substring
  *	needle in the string haystack. the terminating null byte
  *	are not compared
  *
+ * @haystack: string to be checked
+ * @needle: the substring that is to be checked for
  * Return: pointer to the beginning of the located substring
  *	NULL if the substring is not found
  */
