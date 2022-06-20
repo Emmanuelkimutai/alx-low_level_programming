@@ -6,3 +6,4 @@ Function that serches a string for any of a set of bytes
 Function that locates a substring
 Function that prints the chessboard
 Function that prints the sum of two diagonals of a square matrix of integers
+Function that sets the value of a pointer to a char
