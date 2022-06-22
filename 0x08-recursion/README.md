@@ -3,3 +3,4 @@ Function that prints a string in reverse
 Function that returns the lenght of a string
 Function that returns the factorial of a given number
 function that returns the value of x raised to power of y
+Function that returns the natural square root of a number
