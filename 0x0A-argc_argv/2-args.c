@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - prints all arguments it receives 
+ * main - prints all arguments it receives
  *
- * @argc: number of arguments 
+ * @argc: number of arguments
  * @argv: the arguments passed in the program
  *
  * Return: 0
