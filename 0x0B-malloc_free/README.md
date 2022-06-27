@@ -4,3 +4,4 @@ A function that returns a pointer to a new allocated space in memory,
 A function that concatenates two strings
 A function that returns a pointer to 2 dimensional array of integers.
 A functon that frees a 2-dimensional grid previously created.
+A function that concatenates all the arguments of your program
