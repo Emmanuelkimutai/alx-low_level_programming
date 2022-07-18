@@ -3,3 +3,4 @@ A function that returns the number of elements in a linked list
 A function that adds a new node at the beginning of a list
  A function that adds a new node at the end of a list
 A function that frees a list
+A function that frees a list and sets head to NULL
