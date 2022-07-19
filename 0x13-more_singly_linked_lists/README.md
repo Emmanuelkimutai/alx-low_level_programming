@@ -12,3 +12,4 @@ A function that deletes the node at index of a linked list
 A function that reverses a listint-t linked list
 A function that prints a listint_t linked list
 A function that frees a listint_t linked list
+A function that finds the loop in a linked list
