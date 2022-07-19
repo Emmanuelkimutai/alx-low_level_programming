@@ -4,3 +4,4 @@ A function that adds a new node at the beginning of a list
  A function that adds a new node at the end of a list
 A function that frees a list
 A function that frees a list and sets head to NULL
+A function that deletes the head node of a linked list and returns the head nodes data
