@@ -6,3 +6,4 @@ A function that frees a list
 A function that frees a list and sets head to NULL
 A function that deletes the head node of a linked list and returns the head nodes data
 A function that returns the nth node of a linked list
+A function that returns the sum of all the data (n) of a linked list
