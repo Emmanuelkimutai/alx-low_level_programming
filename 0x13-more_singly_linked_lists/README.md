@@ -11,3 +11,4 @@ A function that inserts a new node at a given position
 A function that deletes the node at index of a linked list
 A function that reverses a listint-t linked list
 A function that prints a listint_t linked list
+A function that frees a listint_t linked list
