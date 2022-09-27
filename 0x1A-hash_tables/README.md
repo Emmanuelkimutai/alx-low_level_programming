@@ -4,3 +4,4 @@ A function that gives you the index of a key
 A function that adds an element to the hash table
 A function that retrieves a value associated with a key
 A function that prints a hash table
+A function that dealets a hash table
